@@ -28,3 +28,10 @@ Les ennemis seront de deux sortes (zombies et animaux sauvages). Il y aura au d�
 
 4.	Personnage :
 Le personnage aura un système proche du réelle avec système de faim et de dénitratation et le joueur devra trouver de la nourriture et de l’eau ainsi que des médicaments sur les ennemis ou sur la map.
+
+<img src="/for_README/Capture d’écran 2021-10-14 à 11.32.42.png" alt="My cool logo"/>
+
+
+<img src="/for_README/Capture d’écran 2021-10-14 à 11.32.55.png" alt="My cool logo"/>
+
+<img src="/for_README/Capture d’écran 2021-10-14 à 11.33.08.png" alt="My cool logo"/>
