@@ -2,7 +2,7 @@
 
 PROJET HUB (JEU SUR UNREAL ENGINE)
 
-
+<img src="/for_README/unreal-engine-4-logo.jpg" alt="My cool logo"/>                                                          
 
 SOMMAIRE
 
@@ -15,7 +15,7 @@ SOMMAIRE
 
 <img src="/for_README/Capture d’écran 2021-10-14 à 11.19.56.png" alt="My cool logo"/>
 
-SPECIFICATION DETAILLE DU JEU
+SPECIFICATION DETAILLEE DU JEU
 
 1.	MAP ET ENVIRONEMENT :
 Le jeu prend place dans un monde Post Apo avec trois types d’environnements différents. Une ville délabrée ou la nature a repris ses droits (vieux trams, bâtiments effondrés, gravas, animaux sauvages, carcasses de voitures). Une forêt avec de grands arbres et une végétation abondante (petits lac).  Et des souterrain (station de Metro, égout). La map sera en monde ouvert donc totalement accessible à tout moment du jeu.
