@@ -4,6 +4,10 @@ PROJET HUB (JEU SUR UNREAL ENGINE)
 
 <img src="/for_README/unreal-engine-4-logo.jpg" alt="My cool logo"/>                                                          
 
+
+<img src="/for_README/LOGO CLAN.png" alt="My cool logo"/> 
+
+
 SOMMAIRE
 
 1.	USER MAP
